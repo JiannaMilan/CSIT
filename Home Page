@@ -19,18 +19,18 @@
 <hr>
 <table align="center" border="1" width="800">
 <tr>
-<p style="font: bold 11px cursive;color:black;text-align:center;">Hockey stats</p>
-<td>Last game</td>
-<td>0 goals! Oops!</td>
+<p style="font: bold 11px cursive;color:black;text-align:center;">This is a fun table!!</p>
+<td>Header</td>
+<td>Text</td>
 </tr>
 <tr>
-<td>2nd to last game</td>
-<td>0 goals again! Oops!!!!</td>
+<td>Header</td>
+<td>0Text!!!!</td>
 </tr>
 </table>
 <hr>
 <a href="https://montclair.edu">Montclair State University</a>
 <a href="https://www.achahockey.org/stats/roster/627/35?division=74">ACHA Hockey</a>
-<a href="https://timeguessr.com">Timeguessr game</a>
+<a href="https://timeguessr.com">Timeguessr game (It's really fun)</a>
 </body>
 </html>
